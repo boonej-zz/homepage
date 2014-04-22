@@ -8,5 +8,5 @@ and led many mobile and desktop based web development projects as a member of
 a Skunkworks style R&D group within the company. 
 
 Since WFM, I have begun a freelance development career and have cofounded a 
-small mobile studio, Moonshine Interactive. In my free time, I enjoy supporting
+small mobile studio, Moonshine Interactive. In my free time I enjoy supporting
 my two boys athletic pursuits, playing music, and fishing.
