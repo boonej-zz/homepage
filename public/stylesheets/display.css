@@ -65,3 +65,20 @@ a {
   border-bottom: 1px solid #666;
   width: 600px;
 }
+
+img.profile {
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  border: 5px solid #666;
+}
+
+#body-right a {
+  text-align: center;
+  width: 300px;
+}
+
+img.contact {
+  width: 150px;
+  margin-left: 75px;
+}
