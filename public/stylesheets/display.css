@@ -1,0 +1,67 @@
+@import url('fonts.css');
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: hattori_hanzolight, serif;
+  color: #666;
+  background: #eee;
+  line-height: 1.5em;
+}
+a {
+  color: #00b7ff;
+}
+#header {
+  height: 44px;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  background: #fff;
+  opacity: 0.8;
+  border-bottom: 1px solid #666;
+}
+#header>h1,
+#header>h2 {
+  font-size: 1em;
+  color: #666;
+  position: fixed;
+}
+#header>h1 {
+  left: 50px;
+
+}
+#header>h2 {
+  right: 50px;
+}
+#body {
+  padding: 50px 20px 20px 20px;
+  margin: 0 auto;
+  width: 960px;
+  color: #666;
+}
+
+#body h1 {
+  font-size: 1.5em;
+  margin: 10px 0px;
+}
+
+#body h2 {
+  margin: -5px 0px 20px 0px;
+  font-size: 1.2em;
+}
+.column {
+  float: left;
+  clear: none;
+}
+#body-left {
+  width: 660px;
+  min-height: 800px;
+}
+#body-right {
+  width: 300px;
+}
+
+.blog-entry {
+  border-bottom: 1px solid #666;
+  width: 600px;
+}

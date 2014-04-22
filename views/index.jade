@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  #header
+    h1= title
+    h2= description
+  #body
+    #body-left.column
+      each blog in blogs
+        div(class="blog-entry")
+          != blog
+    #body-right.column
+      div
+        != about
