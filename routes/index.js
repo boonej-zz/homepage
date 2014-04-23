@@ -20,6 +20,7 @@ for (var i = 0; i != blogs_directory.length; ++i){
   var blog = marked(blog_raw);
   blogs.push(blog);
 }
+blogs = blogs.reverse();
 
 /* GET home page. */
 router.get('/', function(req, res) {
